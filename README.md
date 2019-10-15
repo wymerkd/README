@@ -28,8 +28,9 @@ _Please contact Kyle Wymer, at wymerkd@gmail.com if support is needed_
 
 ## Technologies Used
 
-*_HTML_
-*_CSS_
+* _HTML_
+* _CSS_
+* _Javascript_
 
 ### License
 
